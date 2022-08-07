@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-int main(void)
+int main_UpDownGame(void)
 {
 	// Up and down game
 	//Variable: Chance , Answer, randowm number
